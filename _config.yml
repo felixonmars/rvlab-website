@@ -2,4 +2,8 @@ title: RISC-V Lab @ PLCT Lab, ISCAS
 description: Free access to RISC-V Boards for open source developers worldwide.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-midnight
+remote_theme: mmistakes/so-simple-theme
+skin: "/assets/css/skins/plct.css"
+google_fonts: 
+  - name: "Play"
+    weights: "400,400i,700,700i"
